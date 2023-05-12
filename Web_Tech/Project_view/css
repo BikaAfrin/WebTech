@@ -1,0 +1,15 @@
+.header{
+	background-color: #000000;
+}
+.footer{
+    background-color: #000000;
+}
+.donor,.receiver{
+	color: #8A0303;
+}
+.hospital{
+	color: #8A0303;
+}
+.admin{
+	color: #8A0303;
+}
